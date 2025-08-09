@@ -76,7 +76,7 @@ Git
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/ramakrishnayadav/quantum-farming-dashboard.git
+   git clone https://github.com/ramakrishnanyadav/quantum-farming-dashboard.git
    cd quantum-farming-dashboard
    ```
 
@@ -269,7 +269,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ### 🐛 Bug Reports
 
-Found a bug? [Create an issue](https://github.com/ramakrishnayadav/quantum-farming-dashboard/issues) with:
+Found a bug? [Create an issue](https://github.com/ramakrishnanyadav/quantum-farming-dashboard/issues) with:
 - **Environment**: OS, Python version, dependencies
 - **Steps**: How to reproduce the issue  
 - **Expected vs Actual**: What should happen vs what happens
@@ -310,10 +310,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/ramakrishnyadav.png" width="100px;" alt=""/><br />
+<br />
 <b>Your Name</b><br />
 <sub>🧠 Quantum Algorithms</sub><br />
-<a href="https://github.com/ramakrishnayadav">GitHub</a> | <a href="mailto:ramakrishnayadav2004@gmail.com">Email</a>
+<a href="https://github.com/ramakrishnanyadav">GitHub</a> | <a href="mailto:ramakrishnayadav2004@gmail.com">Email</a>
 </td>
 </tr>
 </table>
@@ -326,8 +326,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Need help? We're here for you!**
 
-[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github)](https://github.com/ramakrishnayadav/quantum-farming-dashboard/issues)
-[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-blue?style=for-the-badge&logo=github)](https://github.com/ramakrishnayadav/quantum-farming-dashboard/discussions)
+[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github)](https://github.com/ramakrishnanyadav/quantum-farming-dashboard/issues)
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-blue?style=for-the-badge&logo=github)](https://github.com/ramakrishnanyadav/quantum-farming-dashboard/discussions)
 [![Email Support](https://img.shields.io/badge/Email-Support-green?style=for-the-badge&logo=gmail)](mailto:ramakrishnayadav2004@gmail.com)
 
 </div>
@@ -340,6 +340,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 *Made with ❤️ for the future of sustainable agriculture*
 
-**[⭐ Star this repo](https://github.com/ramakrishnayadav/quantum-farming-dashboard) | [🍴 Fork it](https://github.com/ramakrishnayadav/quantum-farming-dashboard/fork) | [📝 Contribute](CONTRIBUTING.md)**
+**[⭐ Star this repo](https://github.com/ramakrishnanyadav/quantum-farming-dashboard) | [🍴 Fork it](https://github.com/ramakrishnanyadav/quantum-farming-dashboard/fork) | [📝 Contribute](CONTRIBUTING.md)**
 
 </div>

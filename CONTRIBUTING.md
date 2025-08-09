@@ -13,7 +13,7 @@
 
 1. **Fork and Clone**
    ```bash
-   git clone https://github.com/ramakrishnayadav/quantum-farming-dashboard.git
+   git clone https://github.com/ramakrishnanyadav/quantum-farming-dashboard.git
    cd quantum-farming-dashboard
    ```
 
