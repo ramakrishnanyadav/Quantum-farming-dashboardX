@@ -1,0 +1,4 @@
+date,predicted_yield_tons_per_hectare,crop_stage,crop_health_score,irrigation_amount_liters
+2024-01-01,8.2,Vegetative,85,145.3
+2024-01-02,8.3,Vegetative,86,148.1
+...

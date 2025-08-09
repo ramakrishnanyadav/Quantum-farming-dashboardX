@@ -1,0 +1,35 @@
+/* Main header styling */
+.main-header {
+    font-size: 2.8rem;
+    font-weight: bold;
+    background: linear-gradient(90deg, #00bf63, #0066ff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+/* Footer styling */
+.footer {
+    text-align: center;
+    color: #888;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+}
+
+/* --- NEW STYLES FOR PREDICTION RESULT --- */
+
+/* Style for the large number in the st.metric */
+[data-testid="stMetricValue"] {
+    font-size: 4rem; /* Make the number much larger */
+    color: #00bf63;  /* Use the primary theme color for emphasis */
+    font-weight: 600;
+}
+
+/* Style for the label above the number */
+[data-testid="stMetricLabel"] {
+    font-size: 1.1rem;
+    color: #555; /* A softer color for the label */
+    padding-bottom: 5px;
+}

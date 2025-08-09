@@ -1,0 +1,4 @@
+date,ph,nitrogen_ppm,phosphorus_ppm,potassium_ppm,organic_matter_percent,moisture_percent,bulk_density,cec
+2024-01-01,6.7,42.3,24.1,88.2,3.1,38.5,1.28,17.5
+2024-01-02,6.8,43.1,23.9,87.5,3.2,37.9,1.29,17.6
+...

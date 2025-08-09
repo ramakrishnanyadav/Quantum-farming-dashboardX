@@ -1,0 +1,4 @@
+date,crop,price_per_ton_usd,volume_traded,price_volatility
+2024-01-01,wheat,252.3,1200.5,0.04
+2024-01-01,corn,201.8,1500.2,0.05
+...
