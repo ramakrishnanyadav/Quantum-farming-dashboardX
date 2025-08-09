@@ -311,7 +311,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <tr>
 <td align="center">
 <br />
-<b>Your Name</b><br />
+<b>Ramakrishna Yadav</b><br />
 <sub>🧠 Quantum Algorithms</sub><br />
 <a href="https://github.com/ramakrishnanyadav">GitHub</a> | <a href="mailto:ramakrishnayadav2004@gmail.com">Email</a>
 </td>
