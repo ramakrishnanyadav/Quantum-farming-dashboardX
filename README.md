@@ -9,7 +9,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28.1-red.svg?style=for-the-badge&logo=streamlit)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
-**[🚀 Live Demo](https://quantum-farming-dashboard-9hmjhlbzsqdwhrfc5gfyug.streamlit.app/) | [📖 Documentation](#documentation) | [🛠️ Installation](#installation) | [🤝 Contributing](#contributing)**
+**[🚀 Live Demo](https://quantum-farming-dashboardx-5pnbave3xcew6bndz5jt6n.streamlit.app/) | [📖 Documentation](#documentation) | [🛠️ Installation](#installation) | [🤝 Contributing](#contributing)**
 
 </div>
 
